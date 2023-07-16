@@ -4,9 +4,9 @@ This is a Solidity contract for a custom ERC20 token called "Vaibhav" with the s
 ## Features
 The Token contract provides the following features:
 
-Minting: The owner of the contract can mint new tokens and assign them to a specific address.
-Transfer: Token holders can transfer tokens to other addresses.
-Burning: Token holders can burn their own tokens to reduce the total supply.
+- Minting: The owner of the contract can mint new tokens and assign them to a specific address.
+- Transfer: Token holders can transfer tokens to other addresses.
+- Burning: Token holders can burn their own tokens to reduce the total supply.
 
 ## Usage
 To use this contract, you can follow these steps:
